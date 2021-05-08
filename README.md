@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjk39
-- 👀 I’m interested in Python Development, node.js, SQL and much more.
+- 👀 I’m interested in Python, Node.js, SQL and much more.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything using the above tools.
 - 📫 How to reach me ...
