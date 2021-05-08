@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python, Node.js, SQL and much more.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything using the above tools.
-- 📫 How to reach me ...
 
 <!---
 sjk39/sjk39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
